@@ -127,7 +127,7 @@ console.log(finalTrainTimeline);
 //General Instructions
 var sl_instruct = {
 	type: 'html-keyboard-response',
-	stimulus: '<p>In this part of the study, you will hear a stream of sounds.</p>'+
+	stimulus: '<p>In this part of the study, you will hear a stream of sounds. Each sound will be visually displayed on the screen as it plays.</p>'+
 			  '<p>Please focus on these sounds, as you may be asked questions about them later.</p>'+
 			  '<p>Occasionally, the sounds will pause for up to four seconds. When this happens, please press SPACEBAR as quickly as you can.</br>This helps ensure that you are paying attention to the sounds.</p>'+
 			  '<p>This part of the study will take about 6 minutes to complete, and you will be given the opportunity to take a short break.</p>'+
